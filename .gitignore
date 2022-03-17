@@ -3,3 +3,6 @@
 ################################################################################
 
 /ProConcepts/obj
+/ProConcepts/bin
+/ProConcepts/wwwroot/lib
+/.vs
